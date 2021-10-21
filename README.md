@@ -14,7 +14,7 @@ Dataset yang digunakan dalam project ini merupakan Dataset Mammals berupa kompil
   -  Lion     : 95 file images
 
 # Jurnal Referensi
-Referensi jurnal diambil dari http://advances.utc.sk/index.php/AEEE/article/view/2202 yang berjudul Animal Recognition System Based on Convolutional Neural Network
+Referensi jurnal diambil dari https://www.koreascience.or.kr/article/JAKO202014151762091.page yang berjudul Animal Face Classification using Dual Deep Convolutional Neural Network
 
 # Authors
 - Dina Ardilia Permana
