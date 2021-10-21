@@ -1,6 +1,6 @@
 # PraktikumModul1ML_158_147
 
-# Klasifikasi Hewan Mamalia Menggunakan Metode CNN dan Teknik Augmentasi
+# Klasifikasi Hewan Mamalia Menggunakan Metode CNN
 
 # Deskripsi Dataset
 Dataset yang digunakan dalam project ini merupakan Dataset Mammals berupa kompilasi dari berbagai binatang mamalia. Dataset bersifat publik dan bisa diakses melalui https://www.kaggle.com/anirudhg15/mammals-classification. Dataset berupa hasil pengambilan gambar pada hewan dari berbagai sudut yang terdiri dari 7 kelas dengan jumlah 673 gambar, dengan detail :
