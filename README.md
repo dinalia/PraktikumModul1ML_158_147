@@ -14,7 +14,7 @@ Dataset yang digunakan dalam project ini merupakan Dataset Mammals berupa kompil
   -  Lion     : 95 file images
 
 # Jurnal Referensi
-Referensi jurnal diambil dari https://www.koreascience.or.kr/article/JAKO202014151762091.page yang berjudul Animal Face Classification using Dual Deep Convolutional Neural Network
+Referensi jurnal diambil dari https://ijs.uobaghdad.edu.iq/index.php/eijs/article/view/1619 yang berjudul An Automated Classification of Mammals and Reptiles Animal Classes Using Deep Learning
 
 # Authors
 - Dina Ardilia Permana
